@@ -1,8 +1,9 @@
 
 # 🛒 Retail Online — Cohort Retention Analysis Dashboard
 
-> **Tool:** Power BI | **Dataset:** UCI Online Retail | **Period:** 2010–2011  
+> **Tool:** Microsoft SQL Server, Power BI | **Dataset:** UCI Online Retail | **Period:** 2010–2011  
 > **Type:** Descriptive & Diagnostic Analytics
+> > **Workflow:** Micorsoft SQL Server --> PBI
 
 ---
 
