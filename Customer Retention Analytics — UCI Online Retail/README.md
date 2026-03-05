@@ -125,6 +125,8 @@ The business is **dangerously dependent** on its earliest cohorts. If the Januar
 ### Page 2 — Diagnostic Insights
 
 **AOV: Retained vs One-time buyers**
+<img width="2220" height="616" alt="Screenshot 2026-03-05 131831" src="https://github.com/user-attachments/assets/f1680d90-27ac-4bc9-95dd-f15564221edc" />
+
 - Retained customers: **$486.83** AOV
 - One-time buyers: **$412.80** AOV — a **$74 gap per transaction**
 
