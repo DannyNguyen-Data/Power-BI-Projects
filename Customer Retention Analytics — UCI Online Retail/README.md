@@ -78,6 +78,8 @@ The dataset is the [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/da
 - AOV at $486.73 signals a **wholesale/B2B-leaning customer base** — each lost repeat customer represents nearly $500 in foregone transaction value, not the $20–50 typical of B2C retail.
 
 **The retention reality**
+<img width="1005" height="1062" alt="Screenshot 2026-03-05 131217" src="https://github.com/user-attachments/assets/91bd2b01-7cee-4959-b7e6-09c391794ee4" />
+
 - Month 1 retention averages only **18–24%** across all cohorts — roughly **3 out of 4 new customers never return** in the month after their first purchase.
 - However, customers who survive past Month 2–3 show genuine loyalty, stabilising at **20–27%** for up to 10 months. A real loyal base exists — it is just small.
 
