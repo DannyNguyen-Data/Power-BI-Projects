@@ -161,6 +161,8 @@ The distribution is **bimodal** — a large spike of one-time buyers and a secon
 **Healthy segments (Champions + Loyal) = 31%** of the base. However, **at-risk segments (Hibernating + At Risk + About To Sleep + Need Attention) = 38.66%** — more customers are in various stages of disengagement than are actively healthy.
 
 **Cohort-level segment diagnosis**
+<img width="1466" height="1016" alt="Screenshot 2026-03-05 131957" src="https://github.com/user-attachments/assets/0ff62769-4d10-4314-8dc3-2d009c0ace3d" />
+
 
 - **January & February** contain the highest concentrations of Champions and Loyal customers (Jan: 102 Champions + 77 Loyal = ~43% of cohort). This directly explains their revenue dominance — it is customer quality, not cohort size alone.
 - **January and February also have 84 and 86 At Risk customers respectively** — former high-value buyers now disengaging. These represent the single highest-priority win-back opportunity in the dataset.
