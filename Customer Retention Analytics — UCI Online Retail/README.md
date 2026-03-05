@@ -112,11 +112,13 @@ These bumps likely reflect **seasonal reactivation** — dormant customers retur
 **Q4 is the most concerning quarter.** Despite being the highest-traffic e-commerce period, October and November produce the weakest retaining customers — a classic holiday acquisition problem where deal-seekers and one-time gift buyers have no intention of returning.
 
 **Revenue concentration risk**
+<img width="947" height="516" alt="Screenshot 2026-03-05 131556" src="https://github.com/user-attachments/assets/2808f99f-a807-4d63-a134-500e94e9d9b0" />
+
 - Q1 alone contributes **53.7%** of total revenue
 - January cohort alone = **25.59% (~$2.13M)** of all revenue
 - Q3 + Q4 combined = only **22.3% (~$1.86M)** — less than January by itself
 
-The business is dangerously dependent on its earliest cohorts. If the January cohort ages out, there is no evidence newer cohorts can replace that revenue. This is the most critical business risk identified in the analysis.
+The business is **dangerously dependent** on its earliest cohorts. If the January cohort ages out, there is no evidence newer cohorts can replace that revenue. This is the most critical business risk identified in the analysis.
 
 ---
 
