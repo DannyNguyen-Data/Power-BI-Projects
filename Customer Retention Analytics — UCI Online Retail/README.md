@@ -33,6 +33,7 @@ The dataset is the [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/da
 | Q3 | What is the average retention rate across all cohorts by month index? |
 | Q4 | Which cohorts have the highest and lowest retention at Month 3 and Month 6? |
 | Q5 | Is retention improving over time — are newer cohorts better than older ones? |
+<img width="1783" height="1161" alt="Screenshot 2026-03-05 124316" src="https://github.com/user-attachments/assets/60dc4c9b-2614-45bb-a8e1-0772b43a0866" />
 
 ### Page 2 — Diagnostic Analytics
 | # | Question |
@@ -41,6 +42,7 @@ The dataset is the [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/da
 | Q7 | Does purchase frequency correlate with retention? |
 | Q8 | How are customers distributed across RFM segments, and which segments are at risk? |
 | Q9 | Which cohorts produce the most Champions and Loyal customers? |
+<img width="1535" height="1199" alt="Screenshot 2026-03-05 124425" src="https://github.com/user-attachments/assets/08155a63-936b-4f4c-9c52-6b7d3645635c" />
 
 ---
 
